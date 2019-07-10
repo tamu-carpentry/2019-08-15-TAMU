@@ -235,7 +235,7 @@ AUdience
 
   Show what topics will be covered.
 
-  1. If your workshop is R rather than Python, remove the comment
+  1. If your workshop is R rather than `, remove the comment
      around that section and put a comment around the Python section.
   2. Some workshops will delete SQL.
   3. Please make sure the list of topics is synchronized with what you
@@ -503,7 +503,7 @@ AUdience
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-{% comment %}
+
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -596,7 +596,8 @@ AUdience
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-{% endcomment %}
+
+
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
 {% comment %}
