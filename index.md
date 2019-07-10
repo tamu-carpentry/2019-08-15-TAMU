@@ -12,7 +12,7 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-08-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-08-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Noushin Ghaffari", "David Bapst", "Ramalingam Saravanan", "Shichen Wang"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Jian Tao", "Adrian Castellanos", "Danielle Walkup", "Katherine Beall", "Marcel Brun"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Jian Tao"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["NGhaffari@tamu.edu", "shichen.wang@ag.tamu.edu", "dwbapst@tamu.edu", "sarava@tamu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 eventbrite:  65038863993         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
