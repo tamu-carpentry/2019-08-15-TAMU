@@ -599,6 +599,7 @@ AUdience
 {% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+{% comment %}
   <h3>R</h3>
 
   <p>
@@ -648,6 +649,8 @@ AUdience
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+
+{% endcomment %}
 
 {% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
